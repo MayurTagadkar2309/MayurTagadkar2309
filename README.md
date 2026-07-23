@@ -45,6 +45,25 @@ Goal        : Become a Full Stack + Cyber Security Associate
 - 🐧 Linux
 - ☁ Git & GitHub
 
+## 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=PratikshaShinde21&theme=tokyonight&hide_border=true" width="95%"/>
+</p>
+
+---
+
+## 🐍 Contribution Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=PratikshaShinde21&theme=tokyo-night&hide_border=true" width="95%"/>
+</p>
+
+---
+
+## 🐍 Snake Eating My Contributions
+
+![Contribution Graph](./github-user-contribution.svg)
 
 ---
 
