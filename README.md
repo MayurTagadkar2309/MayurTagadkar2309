@@ -63,7 +63,9 @@ Goal        : Become a Full Stack + Cyber Security Associate
 
 ## 🐍 Snake Eating My Contributions
 
-![Contribution Graph](./github-user-contribution.svg)
+<p align="center">
+  <img src="https://raw.githubusercontent.com/MayurTagadkar2309/MayurTagadkar2309/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+</p>
 
 ---
 
