@@ -48,17 +48,6 @@ Goal        : Become a Full Stack + Cyber Security Engineer
 
 ---
 
-# 🎯 2026 Goals
-
-- ✅ Build 50+ React Projects
-- ✅ Learn Ethical Hacking
-- ✅ Contribute to Open Source
-- ✅ Improve DSA
-- ✅ Crack a Product-Based Company
-- ✅ Become a Full Stack Developer
-
----
-
 # 💡 Quote
 
 > **"Code. Learn. Build. Secure. Repeat."**
