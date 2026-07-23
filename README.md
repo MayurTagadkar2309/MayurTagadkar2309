@@ -22,7 +22,7 @@ Location    : Pune, Maharashtra 🇮🇳
 Education   : BCS Student
 Role        : Frontend Developer
 Learning    : React.js | Cyber Security
-Goal        : Become a Full Stack + Cyber Security Engineer
+Goal        : Become a Full Stack + Cyber Security Associate
 ```
 
 ---
@@ -44,7 +44,7 @@ Goal        : Become a Full Stack + Cyber Security Engineer
 - 🌐 Full Stack Development
 - 🐧 Linux
 - ☁ Git & GitHub
-- 🧠 Data Structures & Algorithms
+
 
 ---
 
